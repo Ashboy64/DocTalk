@@ -10,7 +10,11 @@ public class FirebaseHub {
 
     }
 
-    public static void getSchedue(){
+    public static void getSchedule(){
+
+    }
+
+    public static void createSchedule(){
 
     }
 
